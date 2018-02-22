@@ -10,7 +10,7 @@ int main()
 
 	ang3 = 180 - (ang1 + ang2);  /* Calculates the third angle  */
 
-	printf("The Third angle of the triangle :  %d\n", ang3);
+	printf("The Third angle of the triangle is:  %d\n", ang3);
 
 	return 0;
 }
